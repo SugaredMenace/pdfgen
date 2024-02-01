@@ -1,0 +1,4 @@
+#Thu Feb 01 20:44:42 TRT 2024
+base.0=C\:\\Users\\pc\\Desktop\\pdf_generator\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

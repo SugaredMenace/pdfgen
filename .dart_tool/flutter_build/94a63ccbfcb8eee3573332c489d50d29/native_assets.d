@@ -1,0 +1,1 @@
+ C:\\Users\\pc\\Desktop\\pdf_generator\\.dart_tool\\flutter_build\\94a63ccbfcb8eee3573332c489d50d29\\native_assets.yaml: 
